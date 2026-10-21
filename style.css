@@ -54,8 +54,9 @@ background-color: black;
 border: 1px solid #00ff00;
 font-family: inherit;
 }
-p, i, b, h1, h2, h3, h4, h5, h6 {
+p, i, b, {
 color: #00ff00 !important;
+font-family: kostas !important;
 }
 a, .profile .friends .person p, .logout-btn {
 color: #00ff00 !important;
@@ -94,4 +95,12 @@ background-color: black !important;
     border: 1px #00ff00 solid;
     overflow-wrap: break-word; 
     white-space: normal;
+}
+h1, h2{
+    font-family: ancient runes;
+    color:#00ff00
+}
+h3, h4, h5, h6{
+    font-family: zrnic rg;  
+    color: #00ff00;
 }
