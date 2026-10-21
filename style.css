@@ -104,3 +104,8 @@ h3, h4, h5, h6{
     font-family: zrnic rg;  
     color: #00ff00;
 }
+.h1special{
+    font-family: ancient runes;
+    color: #00ff00;
+    font-size: 40px;
+}
