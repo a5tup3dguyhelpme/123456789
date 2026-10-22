@@ -23,7 +23,7 @@
 body{
     display: flex;
     justify-content: center;
-    FLEX-DIRECTION: column;
+    flex-direction: column;
     background-image:  url("https://media.lexaloffle.com/20526/matrix_rain_161c.gif");
 }
 
@@ -54,7 +54,7 @@ background-color: black;
 border: 1px solid #00ff00;
 font-family: inherit;
 }
-p, i, b, {
+p, i, b {
 color: #00ff00 !important;
 font-family: kostas !important;
 }
@@ -90,6 +90,11 @@ background-color: black !important;
 
 
 /* end of layout from p0libius */
+img{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
 .pepita{
     background-color: #000000;
     border: 1px #00ff00 solid;
