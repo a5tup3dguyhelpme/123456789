@@ -91,9 +91,10 @@ background-color: black !important;
 
 /* end of layout from p0libius */
 img{
-    float: left;
-    margin-right: 10px;
+    float: right;
+    margin-left: 10px;
     margin-bottom: 10px;
+    size: 40px;
 }
 .pepita{
     background-color: #000000;
