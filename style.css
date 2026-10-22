@@ -24,7 +24,11 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: column;
+    justify-content: center; 
+    align-items: center;     
     background-image:  url("https://media.lexaloffle.com/20526/matrix_rain_161c.gif");
+    margin: 0;
+    padding: 0;
 }
 
 /* next part was taken from a layout in spacehey, thanks to p0libius \(^_^)/  */
