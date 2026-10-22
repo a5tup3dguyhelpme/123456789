@@ -136,3 +136,10 @@ h3, h4, h5, h6{
     color: #00ff00;
     font-size: 80px;
 }
+audio{
+    display: block;
+    margin: 20px auto; 
+    filter: invert(1) hue-rotate(90deg) saturate(3); 
+    border: 1px solid #00ff00;
+    background-color: black;
+}
