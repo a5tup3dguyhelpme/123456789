@@ -90,14 +90,26 @@ background-color: black !important;
 
 
 /* end of layout from p0libius */
+div{
+  width: 100%;             
+    max-width: 800px;       
+    box-sizing: border-box; 
+    padding: 20px;
+    background-color: #000000;
+    border: 1px #00ff00 solid;
+    overflow-wrap: break-word; 
+    white-space: normal;
+    text-align: left;   
+}
 .ENORME{
     width: 200px;
     height: auto;
 }
 img{
-    float: right;
-    margin-left: 10px;
-    margin-bottom: 10px;
+   float: right;
+    clear: right;           
+    margin-left: 15px;
+    margin-bottom: 15px;
     width: 200px;
     height: auto;
 }
