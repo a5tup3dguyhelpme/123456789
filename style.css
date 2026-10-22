@@ -90,11 +90,16 @@ background-color: black !important;
 
 
 /* end of layout from p0libius */
+.ENORME{
+    width: 40px;
+    height: auto;
+}
 img{
     float: right;
     margin-left: 10px;
     margin-bottom: 10px;
-    size: 40px;
+    width: 100%;
+    height: auto;
 }
 .pepita{
     background-color: #000000;
